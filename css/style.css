@@ -54,6 +54,10 @@ h1, h2 {
   font-weight: bold;
 }
 
+.margin-0 {
+  margin-bottom: 0;
+}
+
 .margin {
   margin-top: 16px;
 }
